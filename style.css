@@ -19,6 +19,16 @@ main {
     border-radius: 8px;
 }
 
+.recipe {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.recipe ul,
+.recipe ol {
+    padding-left: 30px;
+}
+
 h1, h2, h3 {
     color: #6b3e26;
 }
